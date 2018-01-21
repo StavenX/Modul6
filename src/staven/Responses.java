@@ -1,4 +1,4 @@
-package com.staven;
+package staven;
 
 /**
  * This class enables the creation of response objects, that are meant to be used
@@ -14,6 +14,10 @@ public class Responses
 	public int count = 0;
 	public String response;
 	
+	/**
+	 * 
+	 * @param _response The actual response
+	 */
 	public Responses(String _response) 
 	{
 		this.response = _response;

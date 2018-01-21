@@ -1,4 +1,4 @@
-package com.staven;
+package staven;
 
 /**
  * This class implements a technical support system. It is the top level class 

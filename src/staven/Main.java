@@ -1,4 +1,4 @@
-package com.staven;
+package staven;
 
 public class Main {
 
