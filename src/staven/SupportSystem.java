@@ -35,12 +35,14 @@ public class SupportSystem
      */
     public static String info () 
     {
-    	return ("This system gives a random response to your problem");
+    	return ("This system gives a random response to your problem.");
     }
     
     /**
      * Start the technical support system. This will print a welcome message and enter
      * into a dialog with the user, until the user ends the dialog.
+     * 
+     * MY CHANGE: Added printStatistics method that executes when program is closed.
      */
     public void start()
     {
